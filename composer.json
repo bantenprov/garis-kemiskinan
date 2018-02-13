@@ -1,0 +1,29 @@
+{
+    "name": "bantenprov/garis-kemiskinan",
+    "description": "Garis Kemiskinan, Jumlah dan Persentase Penduduk Tidak Miskin Menurut Kabupaten/Kota",
+    "authors": [
+        {
+            "name": "bantenprov",
+            "email": "developer.bantenprov@gmail.com"
+        }
+    ],
+    "license": "MIT",
+    "support": {
+      "source": "https://github.com/bantenprov/garis-kemiskinan,",
+      "issues": "https://github.com/bantenprov/garis-kemiskinan/issues",
+      "wiki": "https://github.com/bantenprov/garis-kemiskinan/wiki"
+    },
+    "require": {
+        "php": ">=5.6.4",
+        "illuminate/support": "5.4.*"
+    },
+    "autoload": {
+        "files": [
+            "src/helpers/helpers.php"
+        ],
+        "psr-4": {
+            "Bantenprov\\GarisKemiskinan\\": "src"
+        }
+    },
+    "minimum-stability": "dev"
+}
