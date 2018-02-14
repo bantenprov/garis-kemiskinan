@@ -1,7 +1,7 @@
 [
   {
     "xAxis": {
-      "type": "garis-kemiskinan",
+      "type": "Garis Kemiskinan",
       "region": "Kabupaten",
       "name": "Pandeglang"
     },
@@ -22,7 +22,7 @@
   },
   {
     "xAxis": {
-      "type": "garis-kemiskinan",
+      "type": "Garis Kemiskinan",
       "region": "Kabupaten",
       "name": "Lebak"
     },
@@ -43,7 +43,7 @@
   },
   {
     "xAxis": {
-      "type": "garis-kemiskinan",
+      "type": "Garis Kemiskinan",
       "region": "Kabupaten",
       "name": "Tangerang"
     },
@@ -64,7 +64,7 @@
   },
   {
     "xAxis": {
-      "type": "garis-kemiskinan",
+      "type": "Garis Kemiskinan",
       "region": "Kabupaten",
       "name": "Serang"
     },
@@ -85,7 +85,7 @@
   },
   {
     "xAxis": {
-      "type": "garis-kemiskinan",
+      "type": "Garis Kemiskinan",
       "region": "Kota",
       "name": "Tangerang"
     },
@@ -106,7 +106,7 @@
   },
  {
     "xAxis": {
-      "type": "garis-kemiskinan",
+      "type": "Garis Kemiskinan",
       "region": "Kota",
       "name": "Cilegon"
     },
@@ -127,7 +127,7 @@
   },
    {
     "xAxis": {
-      "type": "garis-kemiskinan",
+      "type": "Garis Kemiskinan",
       "region": "Kota",
       "name": "Serang"
     },
@@ -148,7 +148,7 @@
   },
   {
     "xAxis": {
-      "type": "garis-kemiskinan",
+      "type": "Garis Kemiskinan",
       "region": "Kota",
       "name": "Tangerang Selatan"
     },
@@ -161,6 +161,342 @@
           },
           {
             "value": 433967,
+            "name": "2015"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Tidak Miskin",
+      "region": "Kabupaten",
+      "name": "Pandeglang"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 1077.8,
+            "name": "2014"
+          },
+          {
+            "value": 1068.6,
+            "name": "2015"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Tidak Miskin",
+      "region": "Kabupaten",
+      "name": "Lebak"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 1147.1,
+            "name": "2014"
+          },
+          {
+            "value": 1141.9,
+            "name": "2015"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Tidak Miskin",
+      "region": "Kabupaten",
+      "name": "Tangerang"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 3120.3,
+            "name": "2014"
+          },
+          {
+            "value": 3154.3,
+            "name": "2015"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Tidak Miskin",
+      "region": "Kabupaten",
+      "name": "Serang"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 1395.6,
+            "name": "2014"
+          },
+          {
+            "value": 1396.4,
+            "name": "2015"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Tidak Miskin",
+      "region": "Kota",
+      "name": "Tangerang"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 1914.3,
+            "name": "2014"
+          },
+          {
+            "value": 1932.1,
+            "name": "2015"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Tidak Miskin",
+      "region": "Kota",
+      "name": "Cilegon"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 391.8,
+            "name": "2014"
+          },
+          {
+            "value": 396.2,
+            "name": "2015"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Tidak Miskin",
+      "region": "Kota",
+      "name": "Serang"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 598.4,
+            "name": "2014"
+          },
+          {
+            "value": 599.9,
+            "name": "2015"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Tidak Miskin",
+      "region": "Kota",
+      "name": "Tangerang Selatan"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 1481.2,
+            "name": "2014"
+          },
+          {
+            "value": 1504.5,
+            "name": "2015"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Presentase Penduduk Tidak Miskin",
+      "region": "Kabupaten",
+      "name": "Pandeglang"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 90.50,
+            "name": "2014"
+          },
+          {
+            "value": 89.57,
+            "name": "2015"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Presentase Penduduk Tidak Miskin",
+      "region": "Kabupaten",
+      "name": "Lebak"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 90.83,
+            "name": "2014"
+          },
+          {
+            "value": 90.03,
+            "name": "2015"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Presentase Penduduk Tidak Miskin",
+      "region": "Kabupaten",
+      "name": "Tangerang"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 94.74,
+            "name": "2014"
+          },
+          {
+            "value": 94.29,
+            "name": "2015"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Presentase Penduduk Tidak Miskin",
+      "region": "Kabupaten",
+      "name": "Serang"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 95.13,
+            "name": "2014"
+          },
+          {
+            "value": 94.91,
+            "name": "2015"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Presentase Penduduk Tidak Miskin",
+      "region": "Kota",
+      "name": "Tangerang"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 95.09,
+            "name": "2014"
+          },
+          {
+            "value": 94.96,
+            "name": "2015"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Presentase Penduduk Tidak Miskin",
+      "region": "Kota",
+      "name": "Cilegon"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 96.19,
+            "name": "2014"
+          },
+          {
+            "value": 95.90,
+            "name": "2015"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Presentase Penduduk Tidak Miskin",
+      "region": "Kota",
+      "name": "Serang"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 94.30,
+            "name": "2014"
+          },
+          {
+            "value": 93.72,
+            "name": "2015"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Presentase Penduduk Tidak Miskin",
+      "region": "Kota",
+      "name": "Tangerang Selatan"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 98.32,
+            "name": "2014"
+          },
+          {
+            "value": 98.31,
             "name": "2015"
           }
         ]
