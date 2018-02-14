@@ -1,0 +1,17 @@
+[
+  {
+    "xAxis": {
+      "category": "Garis Kemiskinan",
+      "type": "category",
+      "region": "Provinsi"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":315819,"name":"2014"},
+          {"value":336483 ,"name":"2015"}
+        ]
+      }
+    ]
+  }
+]
