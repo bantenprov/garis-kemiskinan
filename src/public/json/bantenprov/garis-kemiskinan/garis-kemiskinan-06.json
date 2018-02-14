@@ -13,5 +13,35 @@
         ]
       }
     ]
+  },
+  {
+    "xAxis": {
+      "category": "Jumlah Penduduk Tidak Miskin",
+      "type": "category",
+      "region": "Provinsi"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":11126.5,"name":"2014"},
+          {"value":11193.6 ,"name":"2015"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Presentase Penduduk Tidak Miskin",
+      "type": "category",
+      "region": "Provinsi"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":94.49,"name":"2014"},
+          {"value":94.10 ,"name":"2015"}
+        ]
+      }
+    ]
   }
 ]
