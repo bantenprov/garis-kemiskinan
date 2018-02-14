@@ -1,0 +1,154 @@
+[
+  {
+    "xAxis": {
+      "category": "garis-kemskinan",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
+      "data": [
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          237111,
+          247073
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "garis-kemskinan",
+      "region": "Kabupaten",
+      "name": "Lebak",
+      "data": [
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          219177,
+          228146 
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "garis-kemskinan",
+      "region": "Kabupaten",
+      "name": "Tangerang",
+      "data": [
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          351789,
+          372431
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "garis-kemskinan",
+      "region": "Kabupaten",
+      "name": "Serang",
+      "data": [
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          223190,
+          232856
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "garis-kemskinan",
+      "region": "Kota",
+      "name": "Tangerang",
+      "data": [
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          421554,
+          455228
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "garis-kemskinan",
+      "region": "Kota",
+      "name": "Cilegon",
+      "data": [
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          306253,
+          323935
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "garis-kemskinan",
+      "region": "Kota",
+      "name": "Serang",
+      "data": [
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          242977,
+          255614
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "garis-kemskinan",
+      "region": "Kota",
+      "name": "Tangerang Selatan",
+      "data": [
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          401696,
+          433.967
+        ]
+      }
+    ]
+  }
+]
