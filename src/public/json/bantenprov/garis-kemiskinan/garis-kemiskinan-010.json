@@ -1,225 +1,204 @@
 [
   {
     "xAxis": {
-      "type": "category",
+      "type": "garis-kemiskinan",
       "region": "Provinsi",
       "name": "Banten",
-      "yyyy": "2011",
-      "title": "Garis Kemiskinan Kabupaten Pandeglang",
+      "yyyy": "2014",
+      "index": "banten-2014-garis-kemiskinan",
+      "title": "Garis Kemiskinan (Rupiah/Kapita/Bulan) September 2014",
       "data": [
-        "2010",
-        "2011",
-        "2012",
-        "2013",
-        "2014",
-        "2015"
+        "Kab. Pandeglang",
+        "Kab. Lebak",
+        "Kab. Tangerang",
+        "Kab. Serang",
+        "Kota Tangerang",
+        "Kota Cilegon",
+        "Kota Serang",
+        "Kota Tangerang Selatan"
       ]
     },
     "series": [
       {
         "data": [
-          6.33,
-          6.38,
-          6.43,
-          6.44,
-          6.45,
-          6.50
+          237111,
+          219177,
+          351789,
+          223190,
+          421554,
+          306253,
+          242977,
+          401696
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "category",
-      "region": "Negara",
-      "title": "Garis Kemiskinan Kabupaten Lebak",
-      "yyyy": "2011",
+      "type": "garis-kemiskinan",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2014",
+      "index": "banten-2014-garis-kemiskinan",
+      "title": "Jumlah Penduduk Tidak Miskin (Ribuan Orang) September 2014",
       "data": [
-        "2010",
-        "2011",
-        "2012",
-        "2013",
-        "2014",
-        "2015"
+        "Kab. Pandeglang",
+        "Kab. Lebak",
+        "Kab. Tangerang",
+        "Kab. Serang",
+        "Kota Tangerang",
+        "Kota Cilegon",
+        "Kota Serang",
+        "Kota Tangerang Selatan"
       ]
     },
     "series": [
       {
         "data": [
-          5.34,
-          5.58,
-          5.70,
-          5.81,
-          5.84,
-          5.86
+          1077.8,
+          1147.1,
+          3120.3,
+          1395.6,
+          1914.3,
+          391.8,
+          598.4,
+          1481.2
+        ]
+      }
+    ]
+  },
+    {
+    "xAxis": {
+      "type": "garis-kemiskinan",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2014",
+      "index": "banten-2014-garis-kemiskinan",
+      "title": "Presentase Penduduk Tidak Miskin September 2014",
+      "data": [
+        "Kab. Pandeglang",
+        "Kab. Lebak",
+        "Kab. Tangerang",
+        "Kab. Serang",
+        "Kota Tangerang",
+        "Kota Cilegon",
+        "Kota Serang",
+        "Kota Tangerang Selatan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          90.50,
+          90.83,
+          94.74,
+          95.13,
+          95.09,
+          96.19,
+          94.30,
+          98.32
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "category",
-      "region": "Negara",
-      "title": "Garis Kemiskinan Kabupaten Tangerang",
-      "yyyy": "2011",
+      "type": "garis-kemiskinan",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2015",
+      "index": "banten-2015-garis-kemiskinan",
+      "title": "Garis Kemiskinan (Rupiah/Kapita/Bulan) Maret 2015",
       "data": [
-        "2010",
-        "2011",
-        "2012",
-        "2013",
-        "2014",
-        "2015"
+        "Kab. Pandeglang",
+        "Kab. Lebak",
+        "Kab. Tangerang",
+        "Kab. Serang",
+        "Kota Tangerang",
+        "Kota Cilegon",
+        "Kota Serang",
+        "Kota Tangerang Selatan"
       ]
     },
     "series": [
       {
         "data": [
-          7.85,
-          7.96,
-          8.07,
-          8.18,
-          8.20,
-          8.22
+          247073,
+          228146,
+          372431,
+          232856,
+          455228,
+          323935,
+          255614,
+          433967 
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "category",
-      "region": "Negara",
-      "title": "Garis Kemiskinan Kabupaten Serang",
-      "yyyy": "2011",
+      "type": "garis-kemiskinan",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2015",
+      "index": "banten-2015-garis-kemiskinan",
+      "title": "Jumlah Penduduk Tidak Miskin (Ribuan Orang) Maret 2015",
       "data": [
-        "2010",
-        "2011",
-        "2012",
-        "2013",
-        "2014",
-        "2015"
+        "Kab. Pandeglang",
+        "Kab. Lebak",
+        "Kab. Tangerang",
+        "Kab. Serang",
+        "Kota Tangerang",
+        "Kota Cilegon",
+        "Kota Serang",
+        "Kota Tangerang Selatan"
       ]
     },
     "series": [
       {
         "data": [
-          6.07,
-          6.31,
-          6.57,
-          6.65,
-          6.69,
-          6.90
+          1068.6 ,
+          1141.9,
+          3154.3,
+          1396.4,
+          1932.1,
+          396.2,
+          599.9,
+          1504.5 
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "category",
-      "region": "Negara",
-      "title": "Garis Kemiskinan Kota Tangerang",
-      "yyyy": "2011",
+      "type": "garis-kemiskinan",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2015",
+      "index": "banten-2015-garis-kemiskinan",
+      "title": "Presentase Penduduk Tidak Miskin Maret 2015",
       "data": [
-        "2010",
-        "2011",
-        "2012",
-        "2013",
-        "2014",
-        "2015"
+        "Kab. Pandeglang",
+        "Kab. Lebak",
+        "Kab. Tangerang",
+        "Kab. Serang",
+        "Kota Tangerang",
+        "Kota Cilegon",
+        "Kota Serang",
+        "Kota Tangerang Selatan"
       ]
     },
     "series": [
       {
         "data": [
-          9.64,
-          9.75,
-          9.76,
-          9.82,
-          10.20,
-          10.20
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "type": "category",
-      "region": "Negara",
-      "title": "Garis Kemiskinan Kota Cilegon",
-      "yyyy": "2011",
-      "data": [
-        "2010",
-        "2011",
-        "2012",
-        "2013",
-        "2014",
-        "2015"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          8.71,
-          8.93,
-          9.29,
-          9.60,
-          9.66,
-          9.67
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "type": "category",
-      "region": "Negara",
-      "title": "Garis Kemiskinan Kota Serang",
-      "yyyy": "2011",
-      "data": [
-        "2010",
-        "2011",
-        "2012",
-        "2013",
-        "2014",
-        "2015"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          8.32,
-          8.39,
-          8.48,
-          8.56,
-          8.58,
-          8.59  
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "type": "category",
-      "region": "Negara",
-      "title": "Garis Kemiskinan Kota Tangerang Selatan",
-      "yyyy": "2011",
-      "data": [
-        "2010",
-        "2011",
-        "2012",
-        "2013",
-        "2014",
-        "2015"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          10.86,
-          10.87,
-          11.09,
-          11.48,
-          11.56,
-          11.57  
+          89.57,
+          90.03,
+          94.29,
+          94.91,
+          94.96,
+          95.90,
+          93.72,
+          98.31 
         ]
       }
     ]
