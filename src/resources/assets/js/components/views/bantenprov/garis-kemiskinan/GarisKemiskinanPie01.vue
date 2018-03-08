@@ -14,7 +14,7 @@ export default {
           text: '',
           x: 'center',
           textStyle: {
-            fontSize: 14,
+            fontSize: 16,
             fontWeight: 'normal',
             fontStyle: 'normal',
             color: '#fff'
