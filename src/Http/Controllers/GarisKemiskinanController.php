@@ -5,7 +5,7 @@ namespace Bantenprov\GarisKemiskinan\Http\Controllers;
 /* Require */
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
-use Bantenprov\BudgetAbsorption\Facades\GarisKemiskinanFacade;
+use Bantenprov\GarisKemiskinan\Facades\GarisKemiskinanFacade;
 
 /* Models */
 use Bantenprov\GarisKemiskinan\Models\Bantenprov\GarisKemiskinan\GarisKemiskinan;
